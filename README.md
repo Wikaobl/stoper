@@ -24,6 +24,9 @@ npm install
 
 Run the project
 
+### Good luck! 🐸
+
+
 ```bash
 npm run
 ```
