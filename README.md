@@ -5,3 +5,4 @@
 ## Description
 
 This project is a stopwatch. It has “start, pause, stop, reset” buttons. There is the last time that we measured and the “archive” button which shows the history of our records. The “stop” button deletes all of the history.
+I used JS, CSS and HTML for this project.
