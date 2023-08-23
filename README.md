@@ -24,11 +24,10 @@ npm install
 
 Run the project
 
-### Good luck! 🐸
-
-
 ```bash
 npm run
 ```
 
 After successfully starting the project, open your web browser and go to the specifiedg URL http://localhost:3000
+
+### Good luck! 🐸
